@@ -53,10 +53,10 @@ Web3 is constantly evolving, with airdrops becoming a significant avenue for pro
 Airdrops, the distribution of cryptocurrency tokens to existing or potential users, serve as a powerful marketing and distribution strategy. However, the decentralized nature of Web3 and the sheer volume of airdrop opportunities make it difficult for individuals to stay informed and efficiently participate. Airdropp addresses this challenge by leveraging artificial intelligence to automate the process of identifying, evaluating, and claiming valuable airdrops.
 ## 2. Problem Statement:
 Current methods of finding and claiming airdrops suffer from several limitations:
-Information Overload: The constant influx of new projects and airdrop announcements makes it difficult to filter out scams and identify legitimate, high-potential opportunities.
-Time-Consuming Process: Manually tracking airdrop announcements, eligibility criteria, and claiming procedures is incredibly time-consuming.
-Technical Barriers: Claiming airdrops often requires interacting with complex smart contracts and Web3 wallets, posing a challenge for less tech-savvy users.
-Security Risks: The decentralized nature of Web3 increases the risk of interacting with malicious actors and phishing scams.
+- Information Overload: The constant influx of new projects and airdrop announcements makes it difficult to filter out scams and identify legitimate, high-potential opportunities.
+- Time-Consuming Process: Manually tracking airdrop announcements, eligibility criteria, and claiming procedures is incredibly time-consuming.
+- Technical Barriers: Claiming airdrops often requires interacting with complex smart contracts and Web3 wallets, posing a challenge for less tech-savvy users.
+- Security Risks: The decentralized nature of Web3 increases the risk of interacting with malicious actors and phishing scams.
 ## 3. Proposed Solution: Airdropp
 Airdropp is an AI-driven platform that simplifies the entire airdrop lifecycle. It offers:
 AI-Powered Airdrop Discovery: Airdropp AI agents continuously crawl and analyze various Web3 sources (social media, forums, blogs, project websites) to identify and prioritize promising airdrop opportunities. The AI model is trained on a vast dataset of historical airdrop data, including success rates, token value, and community engagement, allowing it to predict the potential value of upcoming airdrops.
